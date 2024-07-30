@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shiqi Dai"
-description              : "Focusing on Embodied AI and AIGC "
+title                    : "Shiqi Dai 代诗琦"
+description              : "Focusing on Embodied AI and AIGC."
 repository               : "shiqi-dai/shiqidai.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shiqi-dai"
+  github           : "shiqi-dai"
   google_plus      :
   keybase          :
   instagram        :
