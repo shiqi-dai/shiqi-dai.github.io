@@ -38,7 +38,7 @@ My research interest includes diffusion models and Embodied AI. I have published
 
 **Shiqi Dai**, Xuanyu Zhu, <a href="https://naiqili.github.io/">Naiqi Li</a>, <a href="http://cstaodai.com/">Tao Dai</a>,  <a href="http://zwang.inflexionlab.org/">Zhi Wang</a>
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qA08X4sAAAAJ&citation_for_view=qA08X4sAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='qA08X4sAAAAJ:u5HHmVD_uO8C'></span></strong>
+<!-- [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qA08X4sAAAAJ&citation_for_view=qA08X4sAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='qA08X4sAAAAJ:u5HHmVD_uO8C'></span></strong> -->
 - We propose a diffusion-based generative model learning from a single example in <em>Minecraft</em> and <em>Super Mario Bros</em>. 
 <!-- - Our approach involves two core components: 1.an efficient yet expressive level representation, and 2.a latent denoising network with constrained receptive fields.  -->
 - Our model suits a wide range of level structures with fewer artifacts than GAN-based approaches.
@@ -48,7 +48,7 @@ My research interest includes diffusion models and Embodied AI. I have published
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='projects/rlleo/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Collaborative Edge Caching in LEO Satellites Networks: A MAPPO Based Approach**
+[**Collaborative Edge Caching in LEO Satellites Networks: A MAPPO Based Approach**](http://pages.mmlab.top/publications/icme2024-secmappo.pdf)
 
 Mingzhou Wu, **Shiqi Dai**, Han Hu, <a href="http://zwang.inflexionlab.org/">Zhi Wang</a>
 
