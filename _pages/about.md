@@ -57,7 +57,7 @@ Mingzhou Wu, **Shiqi Dai**, Han Hu, <a href="http://zwang.inflexionlab.org/">Zhi
 </div>
 
 <code class="language-plaintext highlighter-rouge">Under Review</code> <strong>EmbodiedEval: Evaluating Multimodal LLMs as Embodied Agents</strong>. 
-Zhili Cheng*, Yuge Tu*, Ran Li*, <strong>Shiqi Dai*</strong>, Jinyi Hu, Shengding Hu, Jiahao Li, Yang Shi, Tianyu Yu, Weize Chen, Lei Shi, Zhiyuan Liu, Maosong Sun
+Zhili Cheng&#42;, Yuge Tu&#42;, Ran Li&#42;, <strong>Shiqi Dai&#42;</strong>, Jinyi Hu, Shengding Hu, Jiahao Li, Yang Shi, Tianyu Yu, Weize Chen, Lei Shi, Zhiyuan Liu, Maosong Sun
 
 # 📖 Educations
 - *2021.09 - 2024.06*, Master of Computer Technology, Tsinghua University, Beijing, China.
