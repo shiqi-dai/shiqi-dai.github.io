@@ -21,7 +21,7 @@ I am now a research assistant in <a href="https://github.com/thunlp">THUNLP</a> 
 
 I received my master's degree in Computer Technology from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> in 2024, advised by Prof.<a href="http://zwang.inflexionlab.org/">Zhi Wang</a> . Previously I got my bachelor's degree in Computer Science and Technology from <a href="https://www.ruc.edu.cn/">Renmin University of China</a> in 2021.
 
-My research interest includes diffusion models and Embodied AI. I have published 2 papers at the international AI conferences including AAAI, ICME.
+My past research experience has involved downstream works with GANs and Diffusion Models, including applying Deepfake in live streaming and procedural content generation in games. I am currently interested in Embodied AI, with a special focus on interactive scene generation. For more details, please see my <a href="docs/Shiqi-Dai_CV1124.pdf">CV</a>.
 
 
 # 🔥 News
