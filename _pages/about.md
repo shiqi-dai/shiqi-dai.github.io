@@ -30,6 +30,17 @@ My past research experience has involved downstream works with GANs and Diffusio
 - *2023.12*: &nbsp;🎉 My first work is accepted by AAAI 2024! Lucky me 🤪!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='projects/embodiedeval/pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[**EmbodiedEval: Evaluating Multimodal LLMs as Embodied Agents**](https://arxiv.org/pdf/2501.11858)
+
+Zhili Cheng&#42;, Yuge Tu&#42;, Ran Li&#42;, <strong>Shiqi Dai&#42;</strong>, Jinyi Hu&#42;, Shengding Hu, Jiahao Li, Yang Shi, Tianyu Yu, Weize Chen, Lei Shi, Zhiyuan Liu, Maosong Sun
+
+- We propose a benchmark for Multimodal LLMs as embodied agents with 328 distinct tasks within 125 varied 3D scenes. The tasks are organized into five categories: navigation, object interaction, social interaction,
+attribute question answering, and spatial question answering to assess different embodied capabilities of Multimodal LLMs.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='projects/plgdiff/show_before.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,13 +67,15 @@ Mingzhou Wu, **Shiqi Dai**, Han Hu, <a href="http://zwang.inflexionlab.org/">Zhi
 </div>
 </div>
 
+
+<!-- 
 <code class="language-plaintext highlighter-rouge">Under Review</code> <strong>EmbodiedEval: Evaluating Multimodal LLMs as Embodied Agents</strong>. 
-Zhili Cheng&#42;, Yuge Tu&#42;, Ran Li&#42;, <strong>Shiqi Dai&#42;</strong>, Jinyi Hu, Shengding Hu, Jiahao Li, Yang Shi, Tianyu Yu, Weize Chen, Lei Shi, Zhiyuan Liu, Maosong Sun
+Zhili Cheng&#42;, Yuge Tu&#42;, Ran Li&#42;, <strong>Shiqi Dai&#42;</strong>, Jinyi Hu, Shengding Hu, Jiahao Li, Yang Shi, Tianyu Yu, Weize Chen, Lei Shi, Zhiyuan Liu, Maosong Sun -->
 
 # 📖 Educations
 - *2021.09 - 2024.06*, Master of Computer Technology, Tsinghua University, Beijing, China.
 - *2017.09 - 2021.06*, Bachelor of Computer Science and Technology, Renmin University of China, Beijing, China.
-- *2014.09 - 2017.06*, Guiyang No.1 High School，Guizhou, China.
+- *2014.09 - 2017.06*, Guiyang No.1 High School, Guizhou, China.
 
 # 👩🏻‍🏫 Teaching Assistants
 - Distributed Machine Learning, 2024 Spring.
