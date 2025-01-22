@@ -38,8 +38,7 @@ My past research experience has involved downstream works with GANs and Diffusio
 Zhili Cheng&#42;, Yuge Tu&#42;, Ran Li&#42;, <strong>Shiqi Dai&#42;</strong>, Jinyi Hu&#42;, Shengding Hu, Jiahao Li, Yang Shi, Tianyu Yu, Weize Chen, Lei Shi, Zhiyuan Liu, Maosong Sun
 
 - We propose a benchmark for Multimodal LLMs as embodied agents with 328 distinct tasks within 125 varied 3D scenes. 
-- The tasks are organized into five categories: navigation, object interaction, social interaction,
-attribute question answering, and spatial question answering to assess different embodied capabilities of Multimodal LLMs.
+- The tasks are organized into five categories: navigation, object interaction, social interaction, attribute question answering, and spatial question answering to assess different embodied capabilities of Multimodal LLMs.
 </div>
 </div>
 
